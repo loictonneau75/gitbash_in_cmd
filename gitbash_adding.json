@@ -1,0 +1,23 @@
+{
+    "Opacity": 75,
+    "closeOnExit": "graceful",
+    "colorScheme": "Campbell",
+    "commandline": "C:/Program Files/Git/bin/bash.exe --login",
+    "cursorColor": "#FFFFFF",
+    "cursorShape": "bar",
+    "experimental.retroTerminalEffect": false,
+    "font": 
+    {
+        "face": "Consolas",
+        "size": 10
+    },
+    "guid": "{14ad203f-52cc-4110-90d6-d96e0f41b64d}",
+    "hidden": false,
+    "historySize": 9001,
+    "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+    "name": "Git Bash",
+    "padding": "0, 0, 0, 0",
+    "snapOnInput": true,
+    "tabTitle": "Git Bash",
+    "useAcrylic": true
+}
